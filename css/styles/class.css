@@ -343,7 +343,7 @@
 {
     background-color: darkslategrey;
     color: #fff;
-    height:500px;
+    height:200px;
 }
 
 .sampleFooterText
@@ -351,6 +351,7 @@
     margin:0px;
     width:15%;
     flex: 0 0 auto;
+    border-top: 1px solid #fff;
 }
 
 .sampleFooterTextSpace
