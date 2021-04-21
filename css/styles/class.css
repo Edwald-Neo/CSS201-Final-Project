@@ -1,6 +1,6 @@
 .mountain
 {
-    background-image: url('/img/mountainHolidays.jpeg');
+    background-image: url('https://edwald-neo.github.io/CSS201-Final-Project/img/mountainHolidays.jpeg');
     background-repeat: no-repeat;
     background-position: relative;
     background-size: cover;
@@ -121,7 +121,7 @@
 
 .campsite
 {
-    background-image: url('/img/campSite.jpeg');
+    background-image: url('https://edwald-neo.github.io/CSS201-Final-Project/img/campSite.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     margin-bottom: 200px;
@@ -277,7 +277,7 @@
 
 .fireMountain
 {
-    background-image: url('/img/fieryMountain.jpeg');
+    background-image: url('https://edwald-neo.github.io/CSS201-Final-Project/img/fieryMountain.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
