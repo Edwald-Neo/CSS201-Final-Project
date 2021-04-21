@@ -348,12 +348,14 @@
 
 .sampleFooterText
 {
-    width:22.5%;
+    margin:0px;
+    width:65%;
     flex: 0 0 auto;
 }
 
 .sampleFooterTextSpace
 {
-    width:2.5%;
+    margin: 0px;
+    width:1.66%;
     flex: 0 0 auto;
 }
