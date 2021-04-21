@@ -1,11 +1,11 @@
 /* Default HTML Layouts - i.e. Body, Header, Footer ... etc */
-@import url('../css/styles/default.css');
+@import url('https://edwald-neo.github.io/CSS201-Final-Project/css/styles/default.css');
 
 /* Layouts */
-@import url('../css/styles/layout.css');
+@import url('https://edwald-neo.github.io/CSS201-Final-Project/css/styles/layout.css');
 
 /* Class declaration */
-@import url('../css/styles/class.css');
+@import url('https://edwald-neo.github.io/CSS201-Final-Project/css/styles/class.css');
 
 /* Various borders */
-@import url('../css/styles/mics.css');
+@import url('https://edwald-neo.github.io/CSS201-Final-Project/css/styles/mics.css');
