@@ -341,6 +341,7 @@
 
 .footNote
 {
-    background-color: yellow;
+    background-color: darkslategrey;
     color: #fff;
+    height:500px;
 }
