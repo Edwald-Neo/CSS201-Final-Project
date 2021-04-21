@@ -339,16 +339,8 @@
     color: #fff;
 }
 
-.footerSection
+.footNote
 {
-    background-color: #17202A;
+    background-color: yellow;
     color: #fff;
-    margin:0;
-    padding: 100px 0px;
-}
-
-.text
-{
-    border-top:1px solid grey;
-    padding: 40px 5px 0px 5px;
 }
