@@ -349,9 +349,11 @@
 .sampleFooterText
 {
     width:22.5%;
+    flex: 0 0 auto;
 }
 
 .sampleFooterTextSpace
 {
     width:2.5%;
+    flex: 0 0 auto;
 }
