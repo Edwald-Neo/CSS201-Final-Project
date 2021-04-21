@@ -1,0 +1,353 @@
+.mountain
+{
+    background-image: url('/img/mountainHolidays.jpeg');
+    background-repeat: no-repeat;
+    background-position: relative;
+    background-size: cover;
+    width: 100%;
+    height:auto;
+    padding-bottom: 100px;
+}
+
+.navbar
+{
+    float: right;
+    padding: 20px;
+    padding-right: 100px;
+    font-size: 2rem;
+    color:#fff;
+    text-decoration: none;
+    clear: both;
+}
+
+.timeLine
+{
+    background-color: rgba(191, 160, 101,0.5);
+    color:#fff;
+    font-weight: bold;
+    margin-top:580px;
+    margin-left: 130px;
+    max-width: 530px;
+    padding-left: 30px;
+    padding-right: 50px;
+    position: absolute;
+    top:100px;
+    z-index: 1;
+}
+
+.titleBar
+{
+    color: #fff;
+    position: absolute;
+    font-size: 5rem;
+    margin-left: 150px;
+    margin-top:-400px;
+    letter-spacing: 1.1rem;
+    font-stretch:extra-condensed;
+}
+
+.holidayDes
+{
+    color: #fff;
+    font-size: 1.8rem;
+    position: absolute;
+    margin-left: 150px;
+    margin-top:-300px;
+    max-width:1100px;
+}
+
+.learnMore
+{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.4rem;
+    position: absolute;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #fff;
+    margin-left: 150px;
+    margin-top: -150px;
+    margin-bottom: 50px;
+}
+
+.section2
+{
+    position: relative;
+    top:0;
+    left:0;
+    width: 100%;
+    height:100%;
+    z-index: 0;
+}
+
+.backPack
+{
+    width: 100%;
+    margin: 100px 0px;
+}
+
+.searching
+{
+    color:#fff;
+    font-size: 3.5rem;
+    margin-top: 150px;
+    padding-left: 100px;
+    line-height: 3.8rem;
+    position: absolute;
+    max-width: 1000px;
+}
+
+.villageDes
+{
+    color:#fff;
+    font-size: 1.4rem;
+    margin-top: 350px;
+    padding-left: 100px;
+    line-height: 1.8rem;
+    position: absolute;
+    max-width: 1000px;
+}
+
+.readMore
+{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.4rem;
+    position: absolute;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #fff;
+    margin-left: 100px;
+    margin-top: 570px;
+}
+
+.campsite
+{
+    background-image: url('/img/campSite.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 200px;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 0;
+}
+
+.campsiteTitle
+{
+    color:#fff;
+    font-size: 4rem;
+    line-height: 4.2rem;
+    max-width: 900px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.campsiteText
+{
+    color: #fff;
+    padding-top: 100px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    max-width: 900px;
+}
+
+.read
+{
+    color:#fff;
+    margin-left:50px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #bfa065;
+}
+
+.des
+{
+    color:#fff;
+    font-style: italic;
+    font-size: 1rem;
+    position: absolute;
+    z-index: 1;
+    margin-left: 1000px;
+}
+
+.section3Title
+{
+    color:#bfa065;
+    font-size: 5rem;
+    text-align: center;
+    line-height: 5.5rem;
+    padding-bottom: 50px;
+}
+
+.card
+{
+    color: #bfa065;
+    font-size: 4.5rem;
+    text-align: center;
+    margin-top: 100px;
+    border: 1px solid #bfa065;
+    border-bottom: none;
+    margin: 0px 5px;
+    padding: 50px 0px;
+}
+
+.card1
+{
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid #bfa065;
+    border-top: none;
+    margin: 0px 5px;
+    padding: 50px 0px;
+}
+
+.hillClimb
+{
+    margin: 50px auto;
+    position: relative;
+    z-index: 0;
+}
+
+.mainContent
+{
+    margin: 200px 0px;
+}
+
+.content
+{
+    color:#fff;
+    padding: 50px 50px;
+    font-size: 3.5rem;
+    max-width: 800px;
+    line-height: 4rem;
+    position: absolute;
+    z-index: 2;
+}
+
+.hillClimbContent
+{
+    color:#fff;
+    padding: 400px 50px 100px 50px;
+    max-width: 800px;
+}
+
+.hillClimbRead
+{
+    color:#fff;
+    text-decoration: none;
+    margin-left:50px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #bfa065;
+}
+
+.content2
+{
+    float: right;
+    margin-top: 550px;
+}
+
+.sunset
+{
+    position: absolute;
+    z-index: 2;
+    width: 20%;
+    left:1400px;
+    margin-top: 80px;
+    overflow: hidden;
+}
+
+.iceClimb
+{
+    position: absolute;
+    z-index: 3;
+    left:1320px;
+    height:80%;
+    margin-top: 30px;
+}
+
+.photoTitle
+{
+    float: right;
+    color:#fff;
+    margin-right:-100px;
+    margin-top:710px;
+    z-index:4;
+}
+
+.fireMountain
+{
+    background-image: url('/img/fieryMountain.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 0;
+    width:100%;
+    height:100%;
+    padding-bottom: 550px;
+}
+
+.surveyFormLayout
+{
+    margin: auto;
+    text-align:center;
+    margin-bottom: 100px;
+}
+
+.surveyTitle
+{
+    color:#ffff;
+    font-size: 2.5rem;
+    text-align: center;
+    font-weight: bold;
+    margin-top: -200px;
+    margin-bottom: 50px;    
+}
+
+.formContents
+{
+    position: absolute;
+    left:37.5%;
+}
+
+.formName
+{
+    background-color: rgba(0,0,0,0);
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+    padding-left: 20px;
+    width: 600px;
+}
+
+.message
+{
+    background-color: rgba(0,0,0,0);
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+    padding-left: 20px;
+    width: 600px;
+}
+
+.submitBtn
+{
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+    background-color: #bfa065;
+    padding: 10px 50px;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.footerSection
+{
+    background-color: #17202A;
+    color: #fff;
+    margin:0;
+    padding: 100px 0px;
+}
+
+.text
+{
+    border-top:1px solid grey;
+    padding: 40px 5px 0px 5px;
+}
